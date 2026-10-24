@@ -4,6 +4,8 @@ btop-style block device I/O throughput monitor with a tiling TUI. Sibling of
 `nictop`, for HDD, SSD, NVMe, LVM, LUKS and md RAID devices instead of network
 interfaces. Python project managed with [uv](https://docs.astral.sh/uv/).
 
+![blktop demo](docs/demo.gif)
+
 ## Setup
 
     uv sync
